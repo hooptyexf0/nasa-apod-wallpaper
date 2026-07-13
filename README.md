@@ -1,7 +1,9 @@
 # nasa-apod-wallpaper
 Version of weathersat-wallpaper made to pull the latest NASA Astronomy Photo of the Day and set it as the wallpaper
 
-Made to be used as a daily anacron job, currently KDE Plasma 6 specific, tested on Kubuntu 26.04, Plasma 6.6.4
+Made to be used as EITHER a daily anacron job, OR a 0 0 * * * & @reboot combo in crontab.
+
+Currently KDE Plasma 6 specific, tested on Kubuntu 26.04, Plasma 6.6.4
 
 Wallpaper setting is Preserve Aspect, so for best effect, set background color to black #000000
 
