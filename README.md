@@ -6,6 +6,8 @@ Also this doesn't account for the rare times they upload a video as the APOD; Ei
 
 Wallpaper setting is Preserve Aspect, so for best effect, set background color to black #000000
 
+Creates/uses a directory hardcoded to ~/Pictures/...
+
 KDE Plasma 6 specific- Currently tested on Kubuntu 26.04, Plasma 6.6.4 & Fedora 44 KDE, Plasma 6.7.2
 
 ----
