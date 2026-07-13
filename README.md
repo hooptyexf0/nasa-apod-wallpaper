@@ -8,7 +8,7 @@ Wallpaper setting is Preserve Aspect, so for best effect, set background color t
 
 Creates/uses a directory hardcoded to ~/Pictures/...
 
-KDE Plasma 6 specific- Currently tested on Kubuntu 26.04, Plasma 6.6.4 & Fedora 44 KDE, Plasma 6.7.2
+KDE Plasma 6 specific- Currently tested on Kubuntu 26.04, Plasma 6.6.4  &  Fedora 44 KDE, Plasma 6.7.2
 
 ----
 This is much more kludgey than weathersat-wallpaper, as it uses a combination of wget and curl (mostly hacked together from various forums and Google AI Overview) to scrape the newest .jpg from the main NASA APOD page instead of relying on there being a directory with latest.jpg like NOAA has for their weathersats.
